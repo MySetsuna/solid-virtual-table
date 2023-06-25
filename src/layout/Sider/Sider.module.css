@@ -1,0 +1,4 @@
+.siderBox{
+    display: flex;
+    flex-direction: column;
+}
