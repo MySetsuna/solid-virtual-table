@@ -9,3 +9,7 @@
     flex-direction: row;
     gap: 8px;
 }
+.row:first-child{
+    position: sticky;
+    top: 0;
+}
