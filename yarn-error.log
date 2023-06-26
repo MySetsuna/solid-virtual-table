@@ -1,8 +1,8 @@
 Arguments: 
-  D:\devTools\nodejs\node.exe C:\Users\v_jxkjiang\AppData\Roaming\npm\node_modules\yarn\bin\yarn.js add -D @typescript-eslint/eslint-plugin@latest @typescript-eslint/parser@latest
+  D:\devTools\nodejs\node.exe C:\Users\v_jxkjiang\AppData\Roaming\npm\node_modules\yarn\bin\yarn.js add vite-plugin-pwa
 
 PATH: 
-  E:\myCode\solid-virtual-table\node_modules\.bin;E:\myCode\node_modules\.bin;E:\node_modules\.bin;D:\devTools\nvm\v16.17.0\node_modules\npm\node_modules\@npmcli\run-script\lib\node-gyp-bin;C:\Users\V_JXKJ~1\AppData\Local\Temp\yarn--1687751550618-0.9356682735954247;E:\myCode\solid-virtual-table\node_modules\.bin;C:\Users\v_jxkjiang\AppData\Local\Yarn\Data\link\node_modules\.bin;C:\Users\v_jxkjiang\AppData\Local\Yarn\bin;D:\devTools\libexec\lib\node_modules\npm\bin\node-gyp-bin;D:\devTools\lib\node_modules\npm\bin\node-gyp-bin;D:\devTools\nodejs\node_modules\npm\bin\node-gyp-bin;C:\Program Files\Eclipse Adoptium\jdk-17.0.6.10-hotspot\bin;C:\Python310\Scripts\;C:\Python310\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\ProgramData\chocolatey\bin;D:\devTools\git\Git\cmd;D:\devTools\nvm;D:\devTools\nodejs;C:\Program Files\dotnet\;C:\Program Files\Eclipse Adoptium\jdk-17.0.6.10-hotspot\\bin;C:\Program Files\Eclipse Adoptium\jdk-17.0.6.10-hotspot\\jre\bin;D:\devTools\sonar-scanner-4.8.0.2856-windows\bin;C:\Strawberry\c\bin;C:\Strawberry\perl\site\bin;C:\Strawberry\perl\bin;C:\Users\v_jxkjiang\.cargo\bin;C:\Users\v_jxkjiang\AppData\Local\pnpm;C:\Users\v_jxkjiang\AppData\Local\Microsoft\WindowsApps;C:\Users\v_jxkjiang\AppData\Roaming\npm;D:\devTools\Microsoft VS Code\bin;D:\devTools\nvm;D:\devTools\nodejs;;C:\Users\v_jxkjiang\AppData\Local\npm-cache\_npx\7ef27be80482e586\node_modules\.bin
+  C:\Program Files\Eclipse Adoptium\jdk-17.0.6.10-hotspot\bin;C:\Python310\Scripts\;C:\Python310\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\ProgramData\chocolatey\bin;D:\devTools\git\Git\cmd;D:\devTools\nvm;D:\devTools\nodejs;C:\Program Files\dotnet\;C:\Program Files\Eclipse Adoptium\jdk-17.0.6.10-hotspot\\bin;C:\Program Files\Eclipse Adoptium\jdk-17.0.6.10-hotspot\\jre\bin;D:\devTools\sonar-scanner-4.8.0.2856-windows\bin;C:\Strawberry\c\bin;C:\Strawberry\perl\site\bin;C:\Strawberry\perl\bin;C:\Users\v_jxkjiang\.cargo\bin;C:\Users\v_jxkjiang\AppData\Local\pnpm;C:\Users\v_jxkjiang\AppData\Local\Microsoft\WindowsApps;C:\Users\v_jxkjiang\AppData\Roaming\npm;D:\devTools\Microsoft VS Code\bin;D:\devTools\nvm;D:\devTools\nodejs;
 
 Yarn version: 
   1.22.18
@@ -14,7 +14,7 @@ Platform:
   win32 x64
 
 Trace: 
-  Error: connect ETIMEDOUT 104.16.19.35:443
+  Error: connect ETIMEDOUT 104.16.23.35:443
       at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1247:16)
 
 npm manifest: 
