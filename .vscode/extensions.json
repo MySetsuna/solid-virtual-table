@@ -1,0 +1,9 @@
+{
+  "recommendations": [
+    "rvest.vs-code-prettier-eslint",
+    "mhutchie.git-graph",
+    "donjayamanne.githistory",
+    "usernamehw.errorlens",
+    "dbaeumer.vscode-eslint"
+  ]
+}
